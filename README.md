@@ -11,7 +11,7 @@ Blender Copilot adds some new features and improvements to the original project,
 ## Demo
 
 <video width="100%" controls>
-  <source src="doc_2025-10-04_20-16-15.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/raaaas/BlenderCopilot/refs/heads/main/doc_2025-10-04_20-16-15.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
