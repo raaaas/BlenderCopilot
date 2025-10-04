@@ -9,9 +9,15 @@ Blender Copilot adds some new features and improvements to the original project,
 - Prompt engineering to fix color and material issues
 
 ## Demo
+
+### YouTube Demo
 [![Alt text](https://img.youtube.com/vi/3iP4VENa9dk/0.jpg)](https://www.youtube.com/watch?v=3iP4VENa9dk)
 
-**Local Demo Video:** [doc_2025-10-04_20-16-15.mp4](doc_2025-10-04_20-16-15.mp4)
+### Local Demo Video
+<video width="100%" controls>
+  <source src="doc_2025-10-04_20-16-15.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Installation
 
