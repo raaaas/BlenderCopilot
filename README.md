@@ -12,6 +12,15 @@ Blender Copilot adds some new features and improvements to the original project,
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/3d8bab10-06d2-49e1-9401-d05b1a6ab2e4
+
+<video controls width="600">
+  <source src="
+https://github.com/user-attachments/assets/3d8bab10-06d2-49e1-9401-d05b1a6ab2e4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [![Watch the demo video](doc_2025-10-04_20-16-15.mp4)](doc_2025-10-04_20-16-15.mp4)
 
 ## Installation
