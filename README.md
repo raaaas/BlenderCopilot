@@ -10,10 +10,9 @@ Blender Copilot adds some new features and improvements to the original project,
 
 ## Demo
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/raaaas/BlenderCopilot/refs/heads/main/doc_2025-10-04_20-16-15.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo
+
+[![Watch the demo video](doc_2025-10-04_20-16-15.mp4)](doc_2025-10-04_20-16-15.mp4)
 
 ## Installation
 
